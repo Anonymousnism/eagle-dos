@@ -30,12 +30,12 @@ print "$$$$$$$$$$$           $$$$$$$$$$$    $$$$$$$$$$$   $  $    $   $    "
 
 print "$$$$$$$$$$$           $$$$$$$$$$$    $$$$$$$$$$$    $$$    $$$$$    "                                                   "
 print 
-print "["+B+""+R+"#"+N+"] "+B+""+R+"Author : White Eagle"+N+"   Eagle Dos From - "+B+""+R+"Zoom Hackers"+N
+print "["+B+""+R+"#"+N+"] "+B+""+R+"Author : MOJO"+N+"   Hacker From - "+B+""+R+"Anonymous"+N
 print
 print("\033[32m================================================================\033[0m")
 print("\033[32mTool devoloped : white-eagle\033[0m")
-print("\033[33mGithub 	       : https://github.com/WH1T3-E4GL3/\033[0m")
-print("\033[33mTelegram       : https://t.me/Ka_KsHi_HaTaKe\033[0m")
+print("\033[33mTelegram	       : https://t.me/YourAnonPost\033[0m")
+print("\033[33mTwitter       : https://twitter.com/anonymousnws12\033[0m")
 print("\033[32m================================================================\033[0m")
 print
 
